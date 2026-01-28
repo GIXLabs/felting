@@ -34,3 +34,5 @@ Strands of wool get stabbed with a needle that has some barbs, which interlocks 
 1. To add eyes, ball up a small amount of wool and poke it into the rest of the felt.   
     ![Gif of adding colored wool](assets/05.adding_facial_features.gif)
     ![Gif of adding colored wool](assets/05-1.adding_facial_features.gif)
+1. You can also add other features, like spots, in this same way.
+1. Have fun!

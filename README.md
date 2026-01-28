@@ -6,8 +6,9 @@
 - Needle
 - Pad
 - Core wool
-- Colored wool
-![Picture showing all supplies]()
+- Colored wool (not shown)
+
+![Picture showing all supplies](assets/materials.jpg)
 
 # How
 ## Basics of felting

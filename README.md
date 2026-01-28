@@ -27,8 +27,9 @@ Strands of wool get stabbed with a needle that has some barbs, which interlocks 
 ## Adding color
 1. Grab some colorful wool and pull it so it is in shorter strands. Lay that across areas you'd like to add color to and poke it in. Keep adding more bits of wool until the color is as consistent as you want it to be.
     ![Gif of adding colored wool](assets/04.adding_colored_wool.gif)
+    
 
 ## Adding facial features
 1. To add eyes, ball up a small amount of wool and poke it into the rest of the felt.   
-    ![Gif of adding facial features 1] (assets/05.adding_facial_features.gif)
-    ![Gif of adding facial features 1] (assets/05-1.adding_facial_features.gif)
+    ![Gif of adding colored wool](assets/05.adding_facial_features.gif)
+    ![Gif of adding colored wool](assets/05-1.adding_facial_features.gif)

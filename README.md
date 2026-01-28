@@ -20,7 +20,7 @@ Strands of wool get poked with a needle that has some barbs, which interlocks th
     ![Gif of rolling wool into a ball](assets/01.rolling_wool_into_a_ball.gif)
 1. With finger gloves on (I promise you're going to accidentally stab your finger a few times), take a needle and poke into the wool a few times, trying to stay perpendicular to the wool. Rotate periodically and keep poking. If you're making a cylinder, keep rotating it like a log, but if you're making a sphere, you should rotate all around.
     ![Gif of poking and rotating the rolled up ball](assets/02.poking_and_rotating_the_rolled_up_ball.gif)
-1. Keep poking, seriously. Most people mess up by not poking enough.
+1. **Keep poking, seriously.** Most people mess up by not poking enough.
 1. You're done poking when it springs back like the meat at the base of your thumb. If you don't poke it enough, you're going to have a hard time adding additional color or facial features.
 1. Add more wool to areas you want to build up and poke them in. Repeat until you have the shape you want.
     ![Gif of adding more material](assets/03.adding_more_material.gif)

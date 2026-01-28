@@ -13,7 +13,7 @@
 # How
 ## Basics of felting
 ### How does it work?
-Strands of wool get stabbed with a needle that has some barbs, which interlocks the fibers. More poking leads to denser materials
+Strands of wool get poked with a needle that has some barbs, which interlocks the fibers. More poking leads to denser wool. More wool can be added, and poked, to build up more complicated shapes and add features.
 
 ## Building up shapes
 1. Start by rolling up a bit of wool into a tight roll. You can always add more later, but removing material is harder, so start small. Just big enough that you can hold the balled up wool in your fingers, but not much bigger than that.
